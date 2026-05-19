@@ -1,13 +1,12 @@
 <img src="https://phoenixcode.netlify.app/images/bg.gif" alt="banner" width="100%">
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/71611ea84eedcc22c3a27dd040649cabf32efc9b32d55d1ab5c16bfe349829c2/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="Coding" width="400" src="">
 
-- 📫 How to reach me **discord.gg/mos9**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/discord.gg/code-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/code-hub" height="30" width="40" /></a>
+<a href="[https://discord.gg/discord.gg/code-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif)" alt="discord.gg/code-hub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
