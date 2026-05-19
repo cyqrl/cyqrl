@@ -1,7 +1,7 @@
 <img src="https://phoenixcode.netlify.app/images/bg.gif" alt="banner" width="100%">
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<img src="[https://phoenixcode.netlify.app/images/bg.gif](https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_500.gifv)" alt="banner" width="100%">
+<img src="https://i.pinimg.com/originals/c1/5d/2c/c15d2c3aaf55d18f35e821555bee546b.gif" alt="banner" width="100%">
 
 
 <h3 align="left">Languages and Tools:</h3>
