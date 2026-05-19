@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://discord.gg/discord.gg/code-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif)" alt="discord.gg/code-hub" height="30" width="40" /></a>
+<a href="[https://discord.gg/discord.gg/code-hub" target="blank"><img align="center" src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" alt="discord.gg/code-hub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
