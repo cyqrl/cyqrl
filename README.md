@@ -17,4 +17,4 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 <a href="https://discord.com/users/984388247620821042" target="_blank">
     <img src="https://images-ext-1.discordapp.net/external/EpEAcCDWlZJbiKHYOgKNWFraeI2twqVvsPXOXGxKIrU/https/discord.c99.nl/widget/theme-4/984388247620821042.png?format=webp&quality=lossless" alt="Phoenix">
 </a>
-![](https://tracker-lme7.onrender.com/track)
+<img src="https://tracker-lme7.onrender.com/track?cb=123456" width="1" height="1" alt="">
