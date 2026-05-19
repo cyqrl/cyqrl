@@ -1,7 +1,6 @@
 <img src="https://phoenixcode.netlify.app/images/bg.gif" alt="banner" width="100%">
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="">
 
 
 <h3 align="left">Connect with me:</h3>
