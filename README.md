@@ -15,6 +15,6 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 <h1 align="center">Discord</h3>
 <div align="center">
 <a href="https://discord.com/users/984388247620821042" target="_blank">
-    <img src="https://images-ext-1.discordapp.net/external/EpEAcCDWlZJbiKHYOgKNWFraeI2twqVvsPXOXGxKIrU/https/discord.c99.nl/widget/theme-4/984388247620821042.png?format=webp&quality=lossless">
+    <img src="https://discord.c99.nl/widget/theme-4/984388247620821042.png">
 </a>
 <img src="https://tracker-lme7.onrender.com/track" width="1" height="1" alt="">
